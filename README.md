@@ -12,4 +12,6 @@
 - Machine Translation:
 <br> [《Phrase-based attentions》](https://arxiv.org/pdf/1810.03444.pdf)
 
-
+# 2019-09-29
+- classification
+<br>[SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS](https://arxiv.org/pdf/1609.02907.pdf)
