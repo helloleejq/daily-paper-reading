@@ -19,5 +19,6 @@
 # 2019-10-06
 - classification
 <br>[《Graph Convolutional Networks for Text Classification》](https://arxiv.org/abs/1809.05679v1)<br>
-- 
+- Abstract Meaning Representation (AMR)
+<br>[《AMR Parsing as Sequence-to-Graph Transduction》](https://arxiv.org/abs/1905.08704v1)
 
