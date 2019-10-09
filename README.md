@@ -28,5 +28,5 @@
 
 # 2019-10-09
 - Relation Extraction
-<br>[Attention Guided Graph Convolutional Networks for Relation Extraction](https://arxiv.org/abs/1906.07510)
+<br>[《Attention Guided Graph Convolutional Networks for Relation Extraction》](https://arxiv.org/abs/1906.07510)
 
