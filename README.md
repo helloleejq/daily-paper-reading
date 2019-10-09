@@ -13,12 +13,20 @@
 <br> [《Phrase-based attentions》](https://arxiv.org/pdf/1810.03444.pdf)
 
 # 2019-09-29
-- classification
+- Text Classification
 <br>[《SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS》](https://arxiv.org/pdf/1609.02907.pdf)
 
 # 2019-10-06
-- classification
+- Text Classification
 <br>[《Graph Convolutional Networks for Text Classification》](https://arxiv.org/abs/1809.05679v1)<br>
 - Abstract Meaning Representation (AMR)
 <br>[《AMR Parsing as Sequence-to-Graph Transduction》](https://arxiv.org/abs/1905.08704v1)
+
+# 2019-10-08
+- Seq2seq
+<br>[《Universal Transformers》](https://arxiv.org/abs/1807.03819)
+
+# 2019-10-09
+- Relation Extraction
+<br>[Attention Guided Graph Convolutional Networks for Relation Extraction](https://arxiv.org/abs/1906.07510)
 
