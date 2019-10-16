@@ -30,3 +30,11 @@
 - Relation Extraction
 <br>[《Attention Guided Graph Convolutional Networks for Relation Extraction》](https://arxiv.org/abs/1906.07510)
 
+# 2019-10-16
+- Knowledge Graph Alignment
+<br>ACL2019: [《Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network》](https://arxiv.org/abs/1905.11605v1)
+- Multi-Document Summarization
+<br>ACL2019:[《Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization》](https://arxiv.org/pdf/1909.12231)
+- QA
+<br>ACL2019:[《Dynamically Fused Graph Network for Multi-hop Reasoning》](https://arxiv.org/abs/1905.06933?context=cs)
+
