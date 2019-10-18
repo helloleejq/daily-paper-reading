@@ -1,6 +1,6 @@
-# daily-paper-reading
- paper reading record.<br>
- ---------------------------Cutting Line-------------------------------------
+# Daily-Paper-Reading
+Paper Reading Record.<br>
+------------------------------ Cutting Line ----------------------------------
 
 
 # 2019-10-18
