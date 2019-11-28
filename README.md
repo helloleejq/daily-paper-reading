@@ -5,7 +5,7 @@ Paper Reading Record.<br>
 - 2019-11-28
 <br> EMNLP2019:[《Improving Fine-grained Entity Typing with Entity Linking》](https://arxiv.org/pdf/1909.12079)
 <br> AAAI2018:[《Improving Neural Fine-Grained Entity Typing with Knowledge Attention》](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16321/16167)
-<br>LREC2018：[《Transforming wikipedia into a large-scale fine-grained entity type corpus》]（http://www.lrec-conf.org/proceedings/lrec2018/summaries/11.html）
+<br>LREC2018：[《Transforming wikipedia into a large-scale fine-grained entity type corpus》](http://www.lrec-conf.org/proceedings/lrec2018/summaries/11.html)
 <br>------------------------------ Cutting Line ----------------------------------
 # 2019-10-18
 - Text Matching
