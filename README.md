@@ -1,8 +1,8 @@
 # Daily-Paper-Reading
 Paper Reading Record.<br>
 ------------------------------ Cutting Line ----------------------------------
-
-
+# FET(Fine-grained Entity Typing) 专题
+------------------------------ Cutting Line ----------------------------------
 # 2019-10-18
 - Text Matching
 <br>IJCAI2015: [《Syntax-Based Deep Matching of Short Texts》](https://arxiv.org/abs/1503.02427)
