@@ -2,6 +2,9 @@
 Paper Reading Record.<br>
 ------------------------------ Cutting Line ----------------------------------
 # FET(Fine-grained Entity Typing) 专题
+- 2019-11-28
+<br> EMNLP2019:[《Improving Fine-grained Entity Typing with Entity Linking》](https://arxiv.org/pdf/1909.12079)
+<br> AAAI2018:[《Improving Neural Fine-Grained Entity Typing with Knowledge Attention》](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16321/16167)
 ------------------------------ Cutting Line ----------------------------------
 # 2019-10-18
 - Text Matching
