@@ -5,6 +5,8 @@ Paper Reading Record.<br>
 - 2019-12-2
 <br>ACL2018: [《Ultra-Fine Entity Typing》](https://arxiv.org/abs/1807.04905v1)
 <br>ACL2018: [《Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking》](https://www.aclweb.org/anthology/P18-1010/)
+<br>NAACL2018: [《Fine-grained Entity Typing through Increased Discourse Context and Adaptive》](https://www.aclweb.org/anthology/S18-2022.pdf)
+<br>EACL2017 : [《Neural Architectures for Fine-grained Entity Type Classification》](https://www.aclweb.org/anthology/E17-1119.pdf)
 - 2019-11-28
 <br> EMNLP2019:[《Improving Fine-grained Entity Typing with Entity Linking》](https://arxiv.org/pdf/1909.12079)
 <br> AAAI2018:[《Improving Neural Fine-Grained Entity Typing with Knowledge Attention》](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16321/16167)
