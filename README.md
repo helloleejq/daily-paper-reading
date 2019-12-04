@@ -2,6 +2,8 @@
 Paper Reading Record.<br>
 ------------------------------ Cutting Line ----------------------------------
 # FET(Fine-grained Entity Typing) 专题
+- 2019-12-3
+<br>NAACL2019: [《Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing》][https://www.aclweb.org/anthology/N19-1084.pdf]
 - 2019-12-2
 <br>ACL2018: [《Ultra-Fine Entity Typing》](https://arxiv.org/abs/1807.04905v1)
 <br>ACL2018: [《Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking》](https://www.aclweb.org/anthology/P18-1010/)
