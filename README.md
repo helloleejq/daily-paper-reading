@@ -2,6 +2,8 @@
 Paper Reading Record.<br>
 ------------------------------ Cutting Line ----------------------------------
 # FET(Fine-grained Entity Typing) 专题
+- 2019-12-4
+<br>EMNLP2019: [《Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification》](https://arxiv.org/pdf/1909.04176)
 - 2019-12-3
 <br>NAACL2019: [《Imposing Label-Relational Inductive Bias for Extremely Fine-Grained Entity Typing》](https://www.aclweb.org/anthology/N19-1084.pdf)
 - 2019-12-2
