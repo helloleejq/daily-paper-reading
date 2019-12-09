@@ -6,7 +6,6 @@ Paper Reading Record.<br>
 <br>NAACL2019: [《Description-Based Zero-shot Fine-Grained Entity Typing》](https://www.aclweb.org/anthology/N19-1087.pdf)
 <br>NAACL2019: [《Improving Distantly-supervised Entity Typing with Compact Latent Space Clustering》](https://www.aclweb.org/anthology/N19-1294.pdf)
 <br>ACL2018:[《Generating Fine-Grained Open Vocabulary Entity Type Descriptions》](https://www.aclweb.org/anthology/P18-1081.pdf)
-<br>
 - 2019-12-4
 <br>EMNLP2019: [《Learning to Learn and Predict: A Meta-Learning Approach for Multi-Label Classification》](https://arxiv.org/pdf/1909.04176)
 - 2019-12-3
